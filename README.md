@@ -13,5 +13,5 @@ E.g. `\\Path to exe\\chromedriver.exe`
 - Open a `cmd prompt` and run the commands `cd Releases` and `downloader.exe [url of playlist]`
 ### From Source
 - Open a `cmd prompt` and run the commands `cd Code` and `python downloader.py [url of playlist]`
-### License
+## License
 All code and Executables are under the [Apache License 2.0](/LICENSE).
