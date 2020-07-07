@@ -1,4 +1,4 @@
-# Youtube-Playlist-Downloader
+# Youtube Playlist Downloader
 Python based tool for Downloading Youtube Playlists with Selenium and PyTube
 ## Setup
 - Download the GitHub Repository [Here](https://github.com/TheWolfPackSociety/Youtube-Playlist-Downloader.git)
