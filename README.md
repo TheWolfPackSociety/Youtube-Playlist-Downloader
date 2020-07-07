@@ -1,11 +1,11 @@
 # Youtube Playlist Downloader
 Python based tool for Downloading Youtube Playlists with Selenium and PyTube
 ## Setup
-- Download the GitHub Repository [Here](https://github.com/TheWolfPackSociety/Youtube-Playlist-Downloader.git)
+- Download the GitHub Repository [Here](https://github.com/TheWolfPackSociety/Youtube-Playlist-Downloader.git)\
 - Open the command prompt and execute the code
 `pip install -r requirements.txt`
 - Download the Chromedriver release w.r.t the Chrome Browser from [Here](https://chromedriver.chromium.org/downloads)
-- Add the Chromedriver path to the *Path* environment variable along with the exe. 
+- Add the Chromedriver path to the *Path* environment variable along with the exe.\
 E.g. `\\Path to exe\\chromedriver.exe`
 ## Run
 ### From Release
